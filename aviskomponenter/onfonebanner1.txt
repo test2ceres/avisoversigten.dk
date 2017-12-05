@@ -1,0 +1,2 @@
+<iframe src="http://tracking1.euroads.dk/system/showadv.php?sid=1&cpid=1481&adid=252822&acid=248&eatrackid=160" width=468 height=60 marginwidth=0 marginheight=0 ALLOWTRANSPARENCY=true frameborder=0 scrolling=no bordercolor=#000000 hspace=0 vspace=0></iframe>
+

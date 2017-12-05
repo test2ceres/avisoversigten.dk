@@ -1,0 +1,10 @@
+<center>
+
+<a href="http://www.rejs-med.dk" name="rejse, rejser"><strong>Skal du ud at rejse?</strong></a><br>
+<a href="http://www.rejseoversigten.dk" name="ferie, ferier"><strong>Find ferien på internettet</strong></a><br>
+<a href="http://www.discount-flybilletter.dk" name="Discount Flybilletter"><strong>Discount Flybilletter</strong></a><br>
+<a href="http://www.airtickets.dk" name="Billige flybilletter">airtickets.dk</a><br>
+<a href="http://www.klikket.dk">Klikket.dk</a><br>
+<a href="http://www.rejseklar.dk">Rejseklar.dk</a><br>
+<a href="http://www.konkurrencenet.dk">Konkurrencenet.dk</a><br>
+</center>

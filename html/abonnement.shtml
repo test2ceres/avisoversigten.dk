@@ -1,0 +1,50 @@
+<!--#include virtual="/top1.shtml" -->
+Avisoversigten - Billige Abonnementer
+<!--#include virtual="/top2.shtml" -->
+Abonnementer
+<!--#include virtual="/top3.shtml" -->
+<form method="GET" action="/cgi-bin/abonnement.pl">
+    <p align="center">Avisoversigten.dk har så mange besøgende
+    (600 forskellige dagligt) at det kan lade sig gøre at få mængderabat
+    ved samtidigt køb af flere abonnementer. Vi har samarbejde
+    med nogle af nedenstående aviser og håber at få det med
+    alle!</p>
+    <p align="center">&nbsp;</p>
+    <p align="left">Hvis du ønsker at få et uforpligtende
+    tilbud på en eller flere avisabonnementer kan du sætte
+    kryds nedenfor.</p>
+    <p align="left">&nbsp;</p>
+    <p align="left">&nbsp;</p>
+    <hr>
+    <p>Ja jeg ønsker tilbud på nedenstående avisabonnement(er)</p>
+<p>-->B.T. 
+<a href="http://ad.adfair.dk/stat.php?id=32535&campaign_id=2229&media_id=320&pool_id=-1" target="_blank">1 måned for kun 98 kr (spar 75%)</a>
+<p>-->Berlingske Tidene 
+<a href="http://ad.adfair.dk/stat.php?id=44756&campaign_id=3246&media_id=320&pool_id=-1" target="_blank">1 måned for kun 98 kr (spar 84%)</a>
+<p><a href="http://ad.adfair.dk/stat.php?id=45517&campaign_id=3365&media_id=320&pool_id=-1" target="_blank">Få
+ErhvervsBladet hver torsdag lige til døren - prøv fem numre GRATIS</a>
+
+<p>Ja jeg ønsker uforpligtende tilbud på nedenstående
+    avisabonnement(er)</p>
+
+    <p><input type="checkbox" name="ekstrabladet">Ekstra Bladet</p>
+    <p><input type="checkbox" name="bt">B.T. </p>
+    <p><input type="checkbox" name="berlingsketidende">Berlingske Tidende</p>
+    <p><input type="checkbox" name="weekendavisen">Weekendavisen</p>
+    <p><input type="checkbox" name="politikken">Politiken</p>    
+    <p><input type="checkbox" name="vestkysten">Vestkysten</p>
+    <p><input type="checkbox" name="borsen">Børsen</p>
+    <p><input type="checkbox" name="aarhusstifttidende">Århus Stiftstidende </p>
+    <p><input type="checkbox" name="fyensstifttidende">Fyens Stiftstidende</p>
+    <p><input type="checkbox" name="aalborgstifttidende">Aalborg stiftstidende </p>
+    <p><input type="checkbox" name="dba"> Den Blå Avis</p>
+    <p>Andre:</p>
+    <p><textarea name="S1" rows="10" cols="40"></textarea></p>
+   <p><input type="checkbox" name="C11"> Jeg ønsker også tilbud på andet end aviser</p>
+    <p>Email:<input type="text" size="50" name="T1" value="@"></p>
+<input
+    type="submit" value="Send formular">
+</form>
+<br><br><br><br>
+<!--#include virtual="/bund.shtml" -->
+

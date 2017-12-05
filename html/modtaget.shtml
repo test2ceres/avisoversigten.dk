@@ -1,0 +1,10 @@
+<!--#include virtual="/top1.shtml" -->
+Avisoversigten - Abonnementsforespørgsel modtaget
+<!--#include virtual="/top2.shtml" -->
+Modtaget
+<!--#include virtual="/top3.shtml" -->
+<br><center>
+<h1>Forespørgslen modtaget</h1> 
+<br><br><br><br>
+<!--#include virtual="/bund.shtml" -->
+

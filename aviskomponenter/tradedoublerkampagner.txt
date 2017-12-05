@@ -1,0 +1,6 @@
+<center>
+<script language="javascript">
+var uri = 'http://impdk.tradedoubler.com/imp/pool/js/144921/400134?' + new String (Math.random()).substring (2, 11);
+document.write('<sc'+'ript language="JavaScript" src="'+uri+'" charset="ISO-8859-1"></sc'+'ript>');
+</script>
+</center>

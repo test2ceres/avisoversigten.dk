@@ -1,0 +1,2 @@
+<iframe src="http://ad.adfair.dk/showbanner.php?id=32535&campaign_id=2229&media_id=320&pool_id=-1" width="468"
+height="60" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor="#000000"></iframe>

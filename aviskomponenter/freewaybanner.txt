@@ -1,0 +1,8 @@
+<! ---- START FASTFREEWAY BANNER KODE --------> 
+<a href="http://www.fastfreeway.dk?ref=16715" target="_top"> 
+<img src="http://www.fastfreeway.dk/banner09.gif" 
+height="60" width="468" border="0" 
+alt="FastFreeway.dk - 
+Motorvejen til GRATIS Internet Trafik!"></a> 
+<! ---- STOP BANNER KODE ----------------> 
+

@@ -1,0 +1,80 @@
+<hr><br>
+<center><a href="http://avis.breum.dk/cgibin/avis/nydata.pl">Tilføj/ret Data i avisoversigten
+</a> 
+<br><br>
+<center>
+
+</p>
+<div align="center"><center>
+
+
+</center></div>
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+
+<center><table border="0">
+<tr><td>
+</td></tr>
+</table>
+
+
+  
+ 
+
+  
+
+
+
+</font> </p>
+        </td>
+    </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td><p align="center">Besøgende siden 25/3-1999</p>
+        </td>
+    </tr>
+    <tr>
+        <td><p align="center"><a
+        href="http://www.chart.dk/ref.asp?id=1063"
+        target="_blank"><img
+        src="http://www.chart.dk/chart.asp?id=1063"
+        alt="chart.dk" border="0"></a> </p>
+        </td>
+    </tr>
+</table>
+</center></div>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td><p align="center">Besøgende siden 22/4-2002</p>
+        </td>
+    </tr>
+    <tr>
+<td>
+<p align="center"><!-- START PEAKCOUNTER KODE --> 
+<SCRIPT SRC="http://www.peak.dk/php/showpeakcounter.php?id=11391&view=3" TYPE="text/javascript" Language="JavaScript"></SCRIPT>
+<NOSCRIPT><a target="_blank" href="http://www.peak.dk/cgi-bin/peakcounter/toplist.cgi?id=11391"><img src="http://www.peak.dk/cgi-bin/peakcounter/peakcounter3.cgi?noid=11391" title='PeakCounter.dk' border=0><img src="http://www.peak.dk/php/peakcounter.php?id=11391" height=1 width=1 border=0></a></NOSCRIPT>
+<!-- SLUT PEAKCOUNTER KODE -->
+        </td>
+    </tr>
+</table>
+</center></div>
+
+<!-- www.HitCount.dk counterscript -->
+</script></noscript>
+<script language=javascript>var UserID=939;</script>
+<script language='javascript' src='http://www.hitcount.dk/Count2.js'></script>
+<a href="http://www.sogemaskiner.dk/sogemaskineoptimering.shtml"
+name="søgemaskineoptimering">Søgemaskineoptimering</a>
+<br>
+<a href="http://www.rejs-med.dk/kategori/Kør-selv" name="Kør Selv Rejser">Kør Selv Rejser</a>
+
+
+</body>
+</html>
+

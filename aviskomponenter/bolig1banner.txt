@@ -1,0 +1,4 @@
+<script language="javascript">
+var uri = 'http://impdk.tradedoubler.com/imp/img/404160/400134?' + new String (Math.random()).substring (2, 11);
+document.write('<a href="http://trac'+'ker.tradedoubler.com/click?p=19297&a=400134&g=404160" target="_blank"><img src="'+uri+'" border=0></a>');
+</script>
